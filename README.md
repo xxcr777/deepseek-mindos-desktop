@@ -9,7 +9,7 @@
 >
 > ✅ **100% 本地运行,绝不采集任何代码、聊天记录和文件。** 你的数据只会发往你所配置的 AI 服务(DeepSeek / OpenAI 等)接口,其余全部留在本机。
 项目技术交流群，实时问题反馈:QQ：1125164302
----
+> 
 
 ## 目录
 
@@ -226,3 +226,4 @@ MindOS Desktop 使用 [openai/codex](https://github.com/openai/codex)(Apache-2.0
 ---
 
 *v0.1.0 · 探路版本,反馈请带环境+截图+日志*
+![项目QQ技术交流群](./assets/screenshots/qrcode_1790555034941.jpg）
