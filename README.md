@@ -226,4 +226,4 @@ MindOS Desktop 使用 [openai/codex](https://github.com/openai/codex)(Apache-2.0
 ---
 
 *v0.1.0 · 探路版本,反馈请带环境+截图+日志*
-![项目QQ技术交流群](assets/screenshots/qrcode_1790555034941.jpg)
+![项目QQ技术交流群]    (assets/screenshots/qrcode_1790555034941.jpg)
